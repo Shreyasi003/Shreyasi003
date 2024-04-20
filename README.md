@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate | CSE'25 |Java | DSA | Coding | Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 
-- 🌱 I’m currently learning **Java(DSA)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
